@@ -19,3 +19,9 @@ body {
   background-color: black;
   color: cornsilk;
 }
+
+img {
+  text-align: center;
+  width: 400px;
+  height: auto;
+}
